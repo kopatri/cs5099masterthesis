@@ -1,0 +1,3582 @@
+[
+    {
+        "Software": "R",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SPSS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "BLAST",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GRAPHPAD PRISM",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "EXCEL",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "STATA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SAS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MEGA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "IMAGEJ",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MATLAB",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GOOGLE SCHOLAR",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GRAPHPAD",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "NET",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PRISM",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SCOPUS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CLUSTALW",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PYTHON",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GISAID",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PYMOL",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "REDCAP",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SPSS STATISTICS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GOOGLE TRENDS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "BEAST",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "AUTODOCK",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "FLOWJO",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "AUTODOCK VINA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ENSEMBL",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MAFFT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CYTOSCAPE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "XGBOOST",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GROMACS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "BERT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SKYPE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "BOWTIE2",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GENEIOUS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GSEA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MUSCLE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "QUALTRICS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "RSTUDIO",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SWISS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "BIOEDIT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "IOS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "TASSER",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CHIMERA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "NVIVO",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PHENIX",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "COOT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "DESEQ2",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "LINUX",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "TENSORFLOW",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MODEL",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GOOGLE FORMS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MOE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SEURAT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SIMPLOT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "OVID",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MASCOT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GENORM",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "EPIC",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SCIKIT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ONE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "DNASTAR",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MFOLD",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "UCSF CHIMERA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CLUSTAL OMEGA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MEDCALC",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "WORD2VEC",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SAMTOOLS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "WINDOWS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GITHUB",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "LEARN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PRIMER",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "DOCK",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SPARQL",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "AMBER",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GGPLOT2",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ARCGIS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SAFEGRAPH",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SURVEYMONKEY",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CHARMM",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "TREE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "REDDIT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "LASSO",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "INCEPTION",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PROMED",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "STRING",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PRO",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "DAVID",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "FASTQC",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "RAXML",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GRAD",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "WEB",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PHYML",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ROSETTA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "FACETIME",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "NETMHCPAN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "OPENMP",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "AUTO",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "STATISTICA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "BWA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "NEXTSTRAIN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MEME",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "VAXIJEN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SHERLOCK",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MOBILENET",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ADAM",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "RDP",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "UMAP",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "STAR",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ML",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "HADDOCK",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ELMO",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GAN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "FASTTEXT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "VMD",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ARIMA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CLUSTALX",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MODELLER",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ROBERTA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "FASTA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "NORMFINDER",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SEQ",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "BEPIPRED",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SCIPY",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "RELION",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "OPLS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GRAPH",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CHEMBL",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "COQ",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "LIMMA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "VOSVIEWER",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MOODLE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "TRUMP",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "R PACKAGE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PYTORCH",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MTURK",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "BIOCONDUCTOR",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PROCHECK",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MPLUS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SQL",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ETHEREUM",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "POWER",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "BIO",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "KERAS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "COMP",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GIS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "HEALTHMAP",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "IQ",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CAM",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "DOCKER",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MRBAYES",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MAESTRO",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CATBOOST",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GENEXPERT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "BIOBERT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "DISCOVERY STUDIO",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PREDICT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "TMHMM",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SMART",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "DETECTR",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "REVIEW MANAGER",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GOOGLE SEARCH",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "WIKIDATA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "TRACETOGETHER",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "R FOUNDATION FOR STATISTICAL COMPUTING",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MEGALIGN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "BOOTSCAN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MOLPROBITY",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MMPBSA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "JMODELTEST",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MAST",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "TRACER",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "EPIESTIM",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "LAMP",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "VR",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GOOGLE MAPS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "FIJI",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "IPA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SOME",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PSI",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MAXQUANT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GLOVE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PHASER",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "TRIMMOMATIC",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GALAXY",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "EDGER",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "REVMAN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "JMP",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GPT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CUDA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "TELENP",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "IDSEQ",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "OPENSAFELY",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "VADR",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PAUP",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ENRICHR",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "EMBASE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CLC GENOMICS WORKBENCH",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "POLYMOD",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MPI",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "FIGTREE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ENDNOTE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PUBMED",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "DA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PHYLIP",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "DEEPRC",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GENASM",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MICROSOFT TEAMS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "IDEA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SIR",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SPADES",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "COV",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "UBER",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CNN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "TIKTOK",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PRED",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SPARK",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "NUMPY",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "META",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SIM",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MM",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "COCHRANE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "AI",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "XCEPTION",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MINIMAP2",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "WEBEX",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MYSQL",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PAML",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PROTPARAM",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "IMARIS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "VIGOR",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "DELPHI",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "DEMATEL",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "JAVA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SISCAN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "POCUS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "NAMD",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PROSA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CO",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SWISSADME",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "JUPYTER",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ALEXNET",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MCDA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ADOBE PHOTOSHOP",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PANTHER",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "R CORE TEAM",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CLUSPRO",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "LASERGENE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "RNAFOLD",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "[UNK]",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MEGA X",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "FITBIT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SIGMAPLOT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MATHEMATICA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "AUTODOCK TOOLS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "FLEXX",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CARE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ABCPRED",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PANDAS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "QIIME",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "AMOS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "LIGPREP",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "REFMAC",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "BESTKEEPER",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ME",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GOOGLENET",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "COVIDSIMVL",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PRIMER EXPRESS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "QUANTITY ONE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "FILMARRAY",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ELLIPRO",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "IEDB",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ESSENCE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "NOSQL",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CELLRANGER",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "BIOPORTAL",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "HADOOP",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "OPEN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ROS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ACCESS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CLAN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SIGNALP",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PLINK",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MED",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CELLQUEST",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "WORD",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MATPLOTLIB",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GENCODE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "TARGETSCAN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "INGENUITY PATHWAY ANALYSIS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GNOMAD",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PROLIFIC",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "IMOD",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PY",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "TI",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "COVASIM",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MARPLE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "AVIDA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ORIGIN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "QUEST",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MODERNA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MR",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "POLYPHEN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "COVIDNET",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "IWASH",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "OPEN BABEL",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SAM",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GENECONV",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CCP4",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "EXPASY",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CRYOSPARC",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "JALVIEW",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "NETCTL",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GBSA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SP",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "3D",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "YOLO",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "AMSTAR",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PERL",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "VINA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "VAXIGN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ALIGN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "INFO",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "WEKA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SPIKE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GLIDE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "AIED",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MINION",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PSIPRED",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "NETNGLYC",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "NODE2VEC",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "METATRYP",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "HYPERDOCS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CANVAS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "DALI",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ZCURVE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PRIMER EXPLORER",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "WGCNA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "BING",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SVM",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PYRX",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CAP",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SLACK",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "YASARA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MAPPER",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ATLAS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "BIOSENSE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SIFT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "WOS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GOLD",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SATSCAN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SMOTE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SCIBERT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "NEURO",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "LME4",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MS EXCEL",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "NETFLIX",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "EMBOSS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "COSINGAN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CITESPACE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GEPHI",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GO",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "LIGPLOT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "AUTOML",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ALLOY",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MC",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PATCHDOCK",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "INTERCEPT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CYTOF",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "BASIC LOCAL ALIGNMENT SEARCH TOOL BLAST",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "POSTGRESQL",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ARDUINO",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PROQUEST",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SNOMED CT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "BIONJ",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "BLACKBOARD",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GAVI",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "REACTOME",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SKLEARN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "STAN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MAXCHI",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "BIACORE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "TRINETX",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ERRAT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "OPENSTREETMAP",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "IN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "RNA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CACOFOLD",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PEP",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SNOMED",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ECLIPSE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GOOGLE FLU TRENDS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "IT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PERCH",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PSO",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "FINTECH",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "FASTTREE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SCHR\u00d6DINGER",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "FLUENT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "BCFTOOLS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "WAVE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SYBYL",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "DISMOD",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "TREEANNOTATOR",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "REMAP",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SIMEX",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "RE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ISABELLE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PROTEOME DISCOVERER",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SEQUENCHER",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GOARN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "VIPR",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "HMMER",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PERMANOVA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SEQMAN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "DISCOVERY",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "XQUERY",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ZEN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SEARCH",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CROSSFIT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "RT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CD",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "HHPRED",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CPLEX",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SNAPCHAT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "TM",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "EDTECH",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GAUSSIAN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CODEML",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "JS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CUTADAPT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "RAMPAGE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "RNASTRUCTURE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "RECOVERY",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "NETLOGO",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "COVIDSAFE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "LOFREQ",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "FASTVIROMEEXPLORER",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "UNITY",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "TRINITY",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ELASTICSEARCH",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "IOMT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "VELVET",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MIRANDA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MONGODB",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "LABVIEW",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ALLERTOP",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CLUSTERPROFILER",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "FLOW",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "METASCAPE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GUI",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CUFFLINKS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PROTECT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "DIAMOND",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "HYPHY",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "COVACTA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "RESPIFINDER",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "DBSCAN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "VIRSCAN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ALBA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GATK",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CONSORT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PHMON",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SAGE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "IMAGEQUANT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "OPENFOAM",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "DATAMONKEY",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "EUROMOMO",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "METAPHLAN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "NUPACK",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "FACSDIVA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PHYRE2",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CORE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "REGTECH",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "JULIA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SCIENCE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "TENCENT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "TROLLHUNTER",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "IMPACT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PRODIGY",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PANCAST",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MINITAB",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SYSTAT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "STRUCTURE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "LIGHTGBM",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SIDARTHE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GOOGLE MEET",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "AIM",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "FOLDX",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CREDIT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MAPREDUCE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "COVAX",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "KAGGLE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MAIL",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "AFFYMETRIX",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PRO PLUS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "RNASEQ",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PUFFALIGNER",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ID",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "TOPSIS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "HAPHPIPE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "COVIDENCE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "FT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MULTI",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SDS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MYCHART",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "QIKPROP",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GAP",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "UTAUT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "DISCOTOPE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "DP",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "TIDYVERSE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "IMMSIM",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "NETMHC",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PKNOTS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "QMEAN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "EM",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SNAP",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MAXENT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "APACHE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "HHSEARCH",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SCANPY",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ACT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "TOPHAT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "XAI",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MEGABLAST",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SCALA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "HIT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ROBINS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GITLAB",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "EFFICIENTNET",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "FLAME",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "USHER",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PANGOLIN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "LAB",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "RESEARCH ELECTRONIC DATA CAPTURE REDCAP",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CDSS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CLUEGO",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PKNOTSRG",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "QUANTSTUDIO",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PYMOL MOLECULAR GRAPHICS SYSTEM",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MP",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "HAEPG",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PSYCAP",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "INSEP",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PASS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GOOGLE TRANSLATE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "HAPLOVIEW",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "HYPERLEDGER",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "TMPRED",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ATT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PARADE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PRIMER PREMIER",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "RAPTORX",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GLEAM",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "DEEP",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ED",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "TEMPEST",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ABC",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CHEXNET",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "HEALTHWISE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "OPENCV",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "RESNET",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "COCONUT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "EPIMATRIX",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "DEAL",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "INSPIRE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "NODE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CYCLEGAN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "COMSIA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MOSSAD",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "HEALTH",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MONOBERT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "HOUSE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SURFLEX",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "LDA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GENEIOUS PRIME",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "BEDTOOLS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PONDR",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SPACY",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MACOS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "APE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "HISAT2",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "VAPID",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CPPTRAJ",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "DISCOVERY STUDIO VISUALIZER",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GOOGLE CLASSROOM",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SEQUEST",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SPINE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GPS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SMARTPLS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CUT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "IMAGE LAB",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SPRINT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "KNIME",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GPHIN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GOOGLE EARTH",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "FOURSQUARE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "KINECT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GALAXYREFINE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "WETRACE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SNOW",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SQUID",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "COMFA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SMARTBUY",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ANALYSIS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MARIO",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "EPI INFO",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "KALLISTO",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SPOT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "FIT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "AR",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "VB",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "TS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SCRIPT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "IQTREE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PINTEREST",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "TREEVIEW",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CHARMM36",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "RSEM",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "INTERPROSCAN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "METAMORPH",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ES",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "LITCOVID",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "DOCTOR",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "POWERPOINT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SCAN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "WEBLOGO",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SMILES",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "BREXIT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "QUADAS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "RAST",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "HKL2000",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "DEEPWALK",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SYNPLOT2",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CASTP",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ARLEQUIN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "VISTA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SEQ2SEQ",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "REAL",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GILEAD",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "RADS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "STOPCOVID",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CONSURF",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GOOGLE PLAY",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ONT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "DNASP",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "RANDOM",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "STATVIEW",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "RANDOMFOREST",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "TWIRLS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "FEDAVG",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PHOTOSHOP",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "BIGRU",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "YAHOO",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "LINKEDIN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CSOMAP",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "TELEGRAM",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "FIREDOCK",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "METABOANALYST",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "AMBER18",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GENSCRIPT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "XLSTAT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "IMAGENET",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "TREETIME",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "LAZYPIPE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "NGS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ITOL",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "VEGAN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PROPRED",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GARD",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "BLUEDOT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SPOTIFY",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GOOGLE DRIVE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "R DEVELOPMENT CORE TEAM",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "EVENT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "UBUNTU",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ANT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "DNAMAN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "HTSEQ",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ARGUS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "DS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "DEADEYE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "VIDISCA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CURE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SHINY",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "LIME",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MEDLINE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "JL",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "RDKIT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SCASOURCE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "COOPERA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "COS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "R SCRIPT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MUST",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "TOXINPRED",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SOMASCAN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PUBCHEM",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "INHERIT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "DBPEDIA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CAVA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "AMAZON",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "XLNET",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "NLTK",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MGCV",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "DIMENSIONS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "XDS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "COVID19",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "DISGENET",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "OLINK",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MICE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "INATURALIST",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PYROSS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "POCT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "WORLDOMETER",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "APACHE SPARK",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "TRUSTZONE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "REACT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "DATA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "FSQCA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SV",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "LISA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ZENODO",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GEOSENTINEL",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "DENSENET",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ALERT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "NG",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "LOESS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MAN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "DOC2VEC",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "JITSYNTH",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CLARIVATE ANALYTICS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SNAPGENE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SIMULINK",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "OF",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ASMAN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "REINIT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "HOTKNOTS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MOTHUR",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MAPITOPE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "COFFEE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CUTESV",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MAXQDA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "LEARNCOIL",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SEARUMS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CROWDAQ",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "EPIDATA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "TWDFOREST",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "WIKIPATHWAYS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "NCOUNTER",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "TROPOMI",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GEOGEBRA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "WEBGESTALT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CNS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "DISCERN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GETIS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "VOKI",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "IC",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ILLUMINA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CUSTOM",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "REACH",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ELSO",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "VIRAL",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MIDAS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MEDREC",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PLATINUM",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "VERSO",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "BIAEVALUATION",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "COSMO",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "TREESOLVE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PLPRO",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "DYNAMUT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MIMIC",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GTEX",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MEGAHIT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GUPPY",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "AL",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "METACORE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GAIA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "FEATURECOUNTS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MOLREP",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GOOGLE DOCS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "VIRSTRAIN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MERODE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "DOTKNOT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "INLA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "HF",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PROSPERO",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ENDICHECK",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PROT\u00c9G\u00c9",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MCODE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "FACEBOOK MESSENGER",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CELL",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "HOMER",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "INSIGHT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "BLOCKCHAIN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ESPRIPT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MARCO",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PROTINA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "UISS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PROVEAN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SEIQRA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ORACLE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GUROBI",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "FILEMAKER PRO",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "DM",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GLEAMVIZ",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MASSLYNX",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CELLPROFILER",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "VGG",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "AD",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MOTIONCOR2",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "FIBERSTARS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GOOGLE HANGOUTS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CHEXPERT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "YOLOV3",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MOBILEVISFIXER",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ADABOOST",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "OPT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "LIWC",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "FEBRIDX",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GENSIM",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "DIVA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "VGGNET",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "AZURE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "NANOSTRING",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MISEQ",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "TRACK",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SPHERE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MOLAICAL",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "OPTATRACE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "METAMIX",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "IM",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "VAMPIRE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "LINE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CARETOY",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ESMO",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "VASH",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MD",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GRAM",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SGX",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ILINCS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SOLIDARITY",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "METAFOR",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MECHANICAL TURK",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "LINEARTURBOFOLD",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CROSS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "STORM",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "JPHMM",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SNPEFF",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "FELUDA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SAINT",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SWISSCOVID",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ARCMAP",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ROTEM",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "JASP",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "KAML",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ECMONET",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "BITCOIN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SADIR",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MUSIC",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "VIROCHIP",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MASK R - CNN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "RUST",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "KHOVID",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ANDROMEDA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PHATE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "RIEMS",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MATHDL",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SAFE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CATCH",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SEAVIEW",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PBSA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "CLUSTER",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "TRROSETTA",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MOLINSPIRATION",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ORIGINPRO",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "PKCSM",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "RAPID",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "ADMETSAR",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "SUPER",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "DE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "NN",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "BIOPYTHON",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "DR",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "GRAPHPPI",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "POLYMAKE",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "- PAD PRISM",
+        "Classification": "Category 1"
+    },
+    {
+        "Software": "MEDISYS",
+        "Classification": "Category 1"
+    }
+]
