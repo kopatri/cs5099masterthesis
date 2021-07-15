@@ -1,192 +1,192 @@
-,Country,Country_Code,Affiliations
-0,United States,US,43536
-1,China,CN,22952
-2,United Kingdom,GB,14702
-3,Italy,IT,10504
-4,France,FR,8548
-5,Spain,ES,8154
-6,Germany,DE,7904
-7,Canada,CA,6434
-8,Australia,AU,6152
-9,India,IN,5744
-10,Japan,JP,3899
-11,Netherlands,NL,3700
-12,South Korea,Unknown code,3683
-13,Brazil,BR,3617
-14,Taiwan,Unknown code,2827
-15,Iran,Unknown code,2621
-16,Switzerland,CH,2446
-17,Singapore,SG,1939
-18,Belgium,BE,1767
-19,Saudi Arabia,SA,1731
-20,Turkey,TR,1723
-21,Hong Kong,HK,1706
-22,Sweden,SE,1698
-23,Denmark,DK,1308
-24,South Africa,ZA,1232
-25,Poland,PL,1217
-26,Israel,IL,1168
-27,Egypt,EG,1078
-28,Portugal,PT,1040
-29,Austria,AT,1020
-30,Mexico,MX,990
-31,Russian Federation,RU,967
-32,Greece,GR,955
-33,Ireland,IE,941
-34,Pakistan,PK,898
-35,Norway,NO,848
-36,Finland,FI,768
-37,Bangladesh,BD,753
-38,Viet Nam,VN,746
-39,Thailand,TH,724
-40,Malaysia,MY,714
-41,Nigeria,NG,714
-42,New Zealand,NZ,565
-43,Argentina,AR,546
-44,Colombia,CO,529
-45,Indonesia,ID,506
-46,Czech Republic,Unknown code,459
-47,Hungary,HU,448
-48,Chile,CL,408
-49,Kenya,KE,406
-50,Ethiopia,ET,369
-51,United Arab Emirates,AE,351
-52,Jordan,JO,345
-53,Peru,PE,326
-54,Morocco,MA,316
-55,Romania,RO,305
-56,Qatar,QA,288
-57,Croatia,HR,282
-58,Tunisia,TN,275
-59,Uganda,UG,215
-60,Philippines,PH,213
-61,Lebanon,LB,207
-62,Ghana,GH,203
-63,Slovenia,SI,194
-64,Nepal,NP,194
-65,Serbia,RS,182
-66,Iraq,IQ,175
-67,Kuwait,KW,162
-68,Ecuador,EC,155
-69,Cameroon,CM,152
-70,Macao,MO,121
-71,Tanzania,Unknown code,121
-72,Algeria,DZ,112
-73,Cyprus,CY,111
-74,Cambodia,KH,109
-75,Sudan,SD,105
-76,Estonia,EE,102
-77,Uruguay,UY,96
-78,Oman,OM,95
-79,Luxembourg,LU,93
-80,Slovakia,SK,88
-81,Bulgaria,BG,83
-82,Lithuania,LT,79
-83,Libyan Arab Jamahiriya,Unknown code,76
-84,Senegal,SN,73
-85,Democratic Republic Congo,Unknown code,71
-86,Ukraine,UA,71
-87,Madagascar,MG,70
-88,Sri Lanka,LK,67
-89,Zambia,ZM,66
-90,Cuba,CU,62
-91,Sierra Leone,SL,60
-92,Zimbabwe,ZW,57
-93,Venezuela,Unknown code,56
-94,Palestine,Unknown code,48
-95,Malta,MT,48
-96,Mali,ML,47
-97,Guinea,GN,44
-98,Puerto Rico,PR,42
-99,Rwanda,RW,41
-100,Namibia,NA,40
-101,Botswana,BW,40
-102,Panama,PA,40
-103,Georgia,GE,40
-104,Benin,BJ,39
-105,Paraguay,PY,39
-106,Mozambique,MZ,38
-107,Laos,Unknown code,37
-108,Kazakhstan,KZ,37
-109,Bosnia and Herzegovina,BA,37
-110,Malawi,MW,37
-111,Burkina Faso,BF,36
-112,Honduras,HN,33
-113,Gabon,GA,31
-114,Congo,CG,31
-115,Bahrain,BH,30
-116,Iceland,IS,30
-117,Costa Rica,CR,29
-118,Yemen,YE,28
-119,Cote d'Ivoire,Unknown code,28
-120,Latvia,LV,27
-121,Guatemala,GT,27
-122,Bolivia,Unknown code,26
-123,Mongolia,MN,26
-124,Belarus,BY,25
-125,Syrian Arab Republic,SY,22
-126,Trinidad and Tobago,TT,21
-127,Dominican Republic,DO,20
-128,Faroe Islands,FO,19
-129,Azerbaijan,AZ,18
-130,Myanmar,MM,17
-131,Albania,AL,17
-132,Grenada,GD,17
-133,Jamaica,JM,16
-134,Gambia,GM,16
-135,Afghanistan,AF,16
-136,Mauritius,MU,16
-137,French Guiana,GF,16
-138,Montenegro,ME,15
-139,Nicaragua,NI,15
-140,Haiti,HT,14
-141,Brunei Darussalam,BN,14
-142,North Macedonia,MK,13
-143,Saint Kitts and Nevis,KN,13
-144,Monaco,MC,12
-145,Kyrgyzstan,KG,12
-146,Armenia,AM,11
-147,Suriname,SR,10
-148,Liechtenstein,LI,9
-149,Uzbekistan,UZ,9
-150,Bhutan,BT,8
-151,Liberia,LR,8
-152,Barbados,BB,8
-153,Solomon Islands,SB,7
-154,Niger,NE,7
-155,Togo,TG,7
-156,Reunion,Unknown code,7
-157,Seychelles,SC,7
-158,Bahamas,BS,6
-159,Somalia,SO,6
-160,Andorra,AD,5
-161,El Salvador,SV,5
-162,New Caledonia,NC,5
-163,Swaziland,Unknown code,5
-164,Fiji,FJ,5
-165,Burundi,BI,5
-166,Guadeloupe,GP,4
-167,Papua New Guinea,PG,4
-168,Lesotho,LS,4
-169,Aruba,AW,4
-170,Guyana,GY,4
-171,Belize,BZ,4
-172,Antigua and Barbuda,AG,3
-173,Djibouti,DJ,3
-174,Federated States of Micronesia,Unknown code,3
-175,Greenland,GL,3
-176,Martinique,MQ,2
-177,Netherlands Antilles,Unknown code,2
-178,San Marino,SM,2
-179,Eritrea,ER,2
-180,French Polynesia,PF,2
-181,Dominica,DM,1
-182,North Korea,Unknown code,1
-183,Central African Republic,CF,1
-184,Kiribati,KI,1
-185,Samoa,WS,1
-186,Curaçao,CW,1
-187,Saint Pierre and Miquelon,PM,1
-188,Mauritania,MR,1
-189,Guinea-Bissau,GW,1
-190,Saint Lucia,LC,1
+,Country,Affiliations
+0,United States,43536
+1,China,22952
+2,United Kingdom,14702
+3,Italy,10504
+4,France,8548
+5,Spain,8154
+6,Germany,7904
+7,Canada,6434
+8,Australia,6152
+9,India,5744
+10,Japan,3899
+11,Netherlands,3700
+12,South Korea,3683
+13,Brazil,3617
+14,Taiwan,2827
+15,Iran,2621
+16,Switzerland,2446
+17,Singapore,1939
+18,Belgium,1767
+19,Saudi Arabia,1731
+20,Turkey,1723
+21,Hong Kong,1706
+22,Sweden,1698
+23,Denmark,1308
+24,South Africa,1232
+25,Poland,1217
+26,Israel,1168
+27,Egypt,1078
+28,Portugal,1040
+29,Austria,1020
+30,Mexico,990
+31,Russian Federation,967
+32,Greece,955
+33,Ireland,941
+34,Pakistan,898
+35,Norway,848
+36,Finland,768
+37,Bangladesh,753
+38,Viet Nam,746
+39,Thailand,724
+40,Malaysia,714
+41,Nigeria,714
+42,New Zealand,565
+43,Argentina,546
+44,Colombia,529
+45,Indonesia,506
+46,Czech Republic,459
+47,Hungary,448
+48,Chile,408
+49,Kenya,406
+50,Ethiopia,369
+51,United Arab Emirates,351
+52,Jordan,345
+53,Peru,326
+54,Morocco,316
+55,Romania,305
+56,Qatar,288
+57,Croatia,282
+58,Tunisia,275
+59,Uganda,215
+60,Philippines,213
+61,Lebanon,207
+62,Ghana,203
+63,Slovenia,194
+64,Nepal,194
+65,Serbia,182
+66,Iraq,175
+67,Kuwait,162
+68,Ecuador,155
+69,Cameroon,152
+70,Macao,121
+71,Tanzania,121
+72,Algeria,112
+73,Cyprus,111
+74,Cambodia,109
+75,Sudan,105
+76,Estonia,102
+77,Uruguay,96
+78,Oman,95
+79,Luxembourg,93
+80,Slovakia,88
+81,Bulgaria,83
+82,Lithuania,79
+83,Libyan Arab Jamahiriya,76
+84,Senegal,73
+85,Democratic Republic Congo,71
+86,Ukraine,71
+87,Madagascar,70
+88,Sri Lanka,67
+89,Zambia,66
+90,Cuba,62
+91,Sierra Leone,60
+92,Zimbabwe,57
+93,Venezuela,56
+94,Palestine,48
+95,Malta,48
+96,Mali,47
+97,Guinea,44
+98,Puerto Rico,42
+99,Rwanda,41
+100,Namibia,40
+101,Botswana,40
+102,Panama,40
+103,Georgia,40
+104,Benin,39
+105,Paraguay,39
+106,Mozambique,38
+107,Laos,37
+108,Kazakhstan,37
+109,Bosnia and Herzegovina,37
+110,Malawi,37
+111,Burkina Faso,36
+112,Honduras,33
+113,Gabon,31
+114,Congo,31
+115,Bahrain,30
+116,Iceland,30
+117,Costa Rica,29
+118,Yemen,28
+119,Cote d'Ivoire,28
+120,Latvia,27
+121,Guatemala,27
+122,Bolivia,26
+123,Mongolia,26
+124,Belarus,25
+125,Syrian Arab Republic,22
+126,Trinidad and Tobago,21
+127,Dominican Republic,20
+128,Faroe Islands,19
+129,Azerbaijan,18
+130,Myanmar,17
+131,Albania,17
+132,Grenada,17
+133,Jamaica,16
+134,Gambia,16
+135,Afghanistan,16
+136,Mauritius,16
+137,French Guiana,16
+138,Montenegro,15
+139,Nicaragua,15
+140,Haiti,14
+141,Brunei Darussalam,14
+142,North Macedonia,13
+143,Saint Kitts and Nevis,13
+144,Monaco,12
+145,Kyrgyzstan,12
+146,Armenia,11
+147,Suriname,10
+148,Liechtenstein,9
+149,Uzbekistan,9
+150,Bhutan,8
+151,Liberia,8
+152,Barbados,8
+153,Solomon Islands,7
+154,Niger,7
+155,Togo,7
+156,Reunion,7
+157,Seychelles,7
+158,Bahamas,6
+159,Somalia,6
+160,Andorra,5
+161,El Salvador,5
+162,New Caledonia,5
+163,Swaziland,5
+164,Fiji,5
+165,Burundi,5
+166,Guadeloupe,4
+167,Papua New Guinea,4
+168,Lesotho,4
+169,Aruba,4
+170,Guyana,4
+171,Belize,4
+172,Antigua and Barbuda,3
+173,Djibouti,3
+174,Federated States of Micronesia,3
+175,Greenland,3
+176,Martinique,2
+177,Netherlands Antilles,2
+178,San Marino,2
+179,Eritrea,2
+180,French Polynesia,2
+181,Dominica,1
+182,North Korea,1
+183,Central African Republic,1
+184,Kiribati,1
+185,Samoa,1
+186,Curaçao,1
+187,Saint Pierre and Miquelon,1
+188,Mauritania,1
+189,Guinea-Bissau,1
+190,Saint Lucia,1
