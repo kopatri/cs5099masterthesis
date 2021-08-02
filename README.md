@@ -1,50 +1,31 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/softwaresaved/habeas-corpus/main?filepath=notebooks/CORD-19-viewer.ipynb)
+# Reproducible analysis of the CORD-19 Software Mentions dataset
+This work is done as part of the M.Sc. Information Technology with Management at the [University of St Andrews](https://www.st-andrews.ac.uk/).
+Based on the "CORD-19 Software Mentions" dataset which is published by the Chan Zuckerberg Institute (doi: https://doi.org/10.5061/dryad.vmcvdncs0) further findings are generated. 
 
-# Habeas Corpus
+## Code structure
+The master project consists of six notebooks which are accompanyied by a dissertation. 
+First, there are three notebooks which analyse the existent dataset: 
+1. The notebook "CORD-19-explore-dataset-cs5099.ipynb" provides a broad overview about the dataset.
+2. The notebook "CORD-19-software-counting-cs5099.ipynb" is responsible for summarizing and counting software mentions. 
+3. The notebook "CORD-19-software-classification-cs5099.ipynb" categorizes software mentions and requires the output of the notebook "CORD-19-software-counting-cs5099.ipynb" as prerequisite. 
 
-This is work done during the hack day at [Collaborations Workshop 2021](https://www.software.ac.uk/cw21), to create a **corpus of research software used for COVID-19 and coronavirus-related research** that will be useful in a number of ways to the research software sustainability community around the [Software Sustainability Institute](https://www.software.ac.uk/). This is based on and extends the "CORD-19 Software Mentions" dataset published by the Chan Zuckerberg Institute (doi: https://doi.org/10.5061/dryad.vmcvdncs0).
+Second, there are three notebooks which request and analyse external data: 
+4. The notebook "CORD-19-collect-scopus-data-CS5099.ipynb" fetches the SCOPUS API for affiliation and core data.
+5. The notebook "CORD-19-analyse-coredata-CS5099.ipynb" analyzes fetched core data.
+6. The notebook "CORD-19-analyse-affiliation-data-CS5099.ipynb" analyzes fetched affiliation data. 
 
-![Habeas Corpus Logo](https://github.com/softwaresaved/habeas-corpus/blob/main/Habeas%20Corpus%20logo.png)
+For readers, it is recommended to view the notebooks in the described order. 
+Furthermore, the project holds additional files which are assigned a supportive role: 
+* "countries.geojson": This file is required to plot a world map in the notebook "CORD-19-analyse-affiliation-data-CS5099.ipynb".
+* "counted_affiliation_countries.csv": This file is created as an output of the notebook "CORD-19-analyse-affiliation-data-CS5099.ipynb" and incorporated a count of countries which will be plotted to a choropleth world map.
+* "extra_info_CS5099.pkl": This file stores fetched information from the SCOPUS API. Moreover, the file is used by "CORD-19-analyse-coredata-CS5099" and ipynb"CORD-19-analyse-affiliation-data-CS5099.ipynb" to form insights. 
+* "software_mentions_CS5099.pkl": This file is outputted by "CORD-19-software-counting-cs5099.ipynb" and used by "CORD-19-software-classification-cs5099.ipynb" for classification of software mentions. 
 
-## Contributing :pencil2:
+## Requirements
+* All required dependencies are listed in the file "requirements.txt".
+* To fetch the SCOPUS API, a pesonal API-Key is required which can be obtained from https://dev.elsevier.com/apikey/manage and must be stored within "config.json".
 
-**_Habeas Corpus_ is a collaborative project** and we welcome suggestions and contributions. We hope one of the invitations below works for you, but if not, please let us know!
-
-:running: **I'm busy, I only have 1 minute**
-- Tell a friend about the project!
-
-:hourglass_flowing_sand: **I've got 5 minutes - tell me what I should do**
-- Suggest ideas for how you would like to use _Habeas Corpus_
-
-:computer: **I've got a few hours to work on this**
-- Take a look at the issues and see if there are any you can contribute to
-- Create an analysis using the data and let us know about it
-
-:tada: **I really want to help increase the community**
-- Organise a hackday to use or improve _Habeas Corpus_
-
-Please [open a GitHub issue](https://github.com/softwaresaved/habeas-corpus/issues) to suggest a new idea or let us know about bugs.
-
-## Project roadmap :checkered_flag:
-For tasks to work on in the near future, please see open Issues. 
-For the bigger picture, please check and contribute to [plan.md](docs/plan.md)
-
-## Licensing
-
-Software code and notebooks from this project are licensed under the open source MIT license. Project documentation and images are licensed under CC BY 4.0. Data produced by this project in the data/outputs directory is licensed under CC0. Other data included in this project from other sources remains licensed under its original license.
-
-## Acknowledgements :family:
-
-This project originated as part of the Collaborations Workshop 2021.
-
-It was based on an original idea by Neil Chue Hong (@npch) and Stephan Druskat (@sdruskat), incorporated ideas and feedback from Michelle Barker, Daniel S. Katz, Shoaib Sufi, Carina Haupt and Callum Rollo, and was developed by Alexander Konovalov (@alex-konovalov), Hao Ye (@ha0ye), Louise Chisholm (@LouiseChisholm), Mark Turner (@MarkLTurner), Neil Chue Hong (@npch), Sammie Buzzard (@sammiebuzzard), and Stephan Druskat (@sdruskat).
-
-The data is derived from the ["CORD-19 Software Mentions"](https://doi.org/10.5061/dryad.vmcvdncs0) dataset published by Alex D Wade and Ivana Williams from the Chan Zuckerberg Initiative and released under a CC0 license. 
-
-## References :books:
-
+## References
 - [Softcite dataset](https://github.com/howisonlab/softcite-dataset) [v1.0](https://github.com/howisonlab/softcite-dataset/releases/tag/v1.0):  
 Du, C., Cohoon, J., Lopez, P., & Howison, J. (forthcoming). Softcite Dataset: A Dataset of Software Mentions in Biomedical and Economic Research Publications. Journal of the Association for Information Science and Technology. DOI: [10.1002/asi.24454](https://doi.org/10.1002/asi.24454).
 - [CORD-19 Software Mentions](https://doi.org/10.5061/dryad.vmcvdncs0)
-- [Software in the Scientific Literature: Problems with Seeing, Finding, and Using Software Mentioned in the Biology Literature](http://james.howison.name/pubs/howison-bullard-2015-software-citation.pdf)
-- [Introducing the PID Graph](https://www.project-freya.eu/en/blogs/blogs/the-pid-graph)
