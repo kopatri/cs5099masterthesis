@@ -27,5 +27,5 @@ Furthermore, the project holds additional files which are assigned a supportive 
 ## References
 - [Softcite dataset](https://github.com/howisonlab/softcite-dataset) [v1.0](https://github.com/howisonlab/softcite-dataset/releases/tag/v1.0):  
 Du, C., Cohoon, J., Lopez, P., & Howison, J. Softcite Dataset: A Dataset of Software Mentions in Biomedical and Economic Research Publications. Journal of the Association for Information Science and Technology. DOI: [10.1002/asi.24454](https://doi.org/10.1002/asi.24454).
-- [Wade, Alex D.; Williams, Ivana (2021), CORD-19 Software Mentions, Dryad, Dataset,](https://doi.org/10.5061/dryad.vmcvdncs0)
+- [Wade, Alex D.; Williams, Ivana (2021), CORD-19 Software Mentions, Dryad, Dataset,] (https://doi.org/10.5061/dryad.vmcvdncs0)
 
