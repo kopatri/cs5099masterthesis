@@ -75,13 +75,13 @@
 73,Estonia,103
 74,Cyprus,99
 75,Algeria,98
-76,Bulgaria,95
-77,Luxembourg,95
+76,Luxembourg,95
+77,Bulgaria,95
 78,Sudan,87
-79,Cambodia,85
-80,Uruguay,85
-81,Ukraine,84
-82,Sri Lanka,84
+79,Uruguay,85
+80,Cambodia,85
+81,Sri Lanka,84
+82,Ukraine,84
 83,Slovakia,80
 84,Libyan Arab Jamahiriya,76
 85,Madagascar,73
@@ -89,10 +89,10 @@
 87,Senegal,70
 88,Sierra Leone,70
 89,Zambia,68
-90,Palestine,66
-91,Zimbabwe,66
-92,Cuba,66
-93,Democratic Republic Congo,66
+90,Cuba,66
+91,Democratic Republic Congo,66
+92,Zimbabwe,66
+93,Palestine,66
 94,Malawi,65
 95,Venezuela,59
 96,Rwanda,54
@@ -100,13 +100,13 @@
 98,Malta,47
 99,Mozambique,45
 100,Bahrain,41
-101,Puerto Rico,39
-102,Georgia,39
+101,Georgia,39
+102,Puerto Rico,39
 103,Mali,38
 104,Congo,37
 105,Laos,36
-106,Iceland,35
-107,Namibia,35
+106,Namibia,35
+107,Iceland,35
 108,Gabon,34
 109,Guinea,34
 110,Yemen,33
@@ -119,16 +119,16 @@
 117,Panama,29
 118,Latvia,28
 119,Burkina Faso,26
-120,Costa Rica,24
-121,Brunei Darussalam,24
+120,Brunei Darussalam,24
+121,Costa Rica,24
 122,Benin,23
-123,Trinidad and Tobago,22
-124,Jamaica,22
+123,Jamaica,22
+124,Trinidad and Tobago,22
 125,Bolivia,21
 126,Myanmar,20
 127,Syrian Arab Republic,20
-128,Mauritius,19
-129,Belarus,19
+128,Belarus,19
+129,Mauritius,19
 130,Mongolia,19
 131,North Macedonia,17
 132,Afghanistan,17
@@ -139,63 +139,63 @@
 137,Gambia,15
 138,Dominican Republic,15
 139,Grenada,14
-140,Armenia,13
+140,Liberia,13
 141,Haiti,13
-142,Liberia,13
+142,Armenia,13
 143,Azerbaijan,12
-144,French Guiana,10
-145,Niger,10
-146,Bhutan,9
-147,Reunion,9
-148,Faroe Islands,9
-149,Barbados,9
-150,Monaco,9
-151,El Salvador,8
-152,Swaziland,8
-153,Montenegro,8
-154,Fiji,7
-155,Kyrgyzstan,7
-156,Seychelles,6
-157,Somalia,6
+144,Niger,10
+145,French Guiana,10
+146,Barbados,9
+147,Faroe Islands,9
+148,Reunion,9
+149,Monaco,9
+150,Bhutan,9
+151,Swaziland,8
+152,Montenegro,8
+153,El Salvador,8
+154,Kyrgyzstan,7
+155,Fiji,7
+156,Somalia,6
+157,Uzbekistan,6
 158,Equatorial Guinea,6
-159,Uzbekistan,6
-160,Liechtenstein,6
+159,Liechtenstein,6
+160,Seychelles,6
 161,Suriname,6
-162,Solomon Islands,5
-163,Lesotho,5
-164,Eritrea,5
-165,New Caledonia,5
-166,Chad,5
-167,Central African Republic,5
-168,Moldova,4
-169,Guinea-Bissau,4
+162,Eritrea,5
+163,Chad,5
+164,Lesotho,5
+165,Central African Republic,5
+166,Solomon Islands,5
+167,New Caledonia,5
+168,Guinea-Bissau,4
+169,Moldova,4
 170,Djibouti,4
-171,Andorra,4
-172,Papua New Guinea,4
+171,Papua New Guinea,4
+172,Andorra,4
 173,Burundi,4
 174,Guyana,3
 175,Martinique,3
 176,Guadeloupe,3
-177,North Korea,2
-178,Aruba,2
-179,Angola,2
+177,Netherlands Antilles,2
+178,Samoa,2
+179,San Marino,2
 180,Belize,2
-181,Netherlands Antilles,2
-182,Samoa,2
-183,San Marino,2
-184,Saint Vincent and the Grenadines,2
-185,French Polynesia,1
-186,Federated States of Micronesia,1
-187,Saint Lucia,1
+181,North Korea,2
+182,Aruba,2
+183,Saint Vincent and the Grenadines,2
+184,Angola,2
+185,Federated States of Micronesia,1
+186,Saint Lucia,1
+187,Kiribati,1
 188,Bahamas,1
-189,Kiribati,1
-190,Saint Helena,1
-191,Russia,1
-192,Cayman Islands,1
+189,Cayman Islands,1
+190,Russia,1
+191,French Polynesia,1
+192,Gibraltar,1
 193,Curaçao,1
-194,Greenland,1
-195,Dominica,1
-196,Gibraltar,1
-197,Mauritania,1
-198,Saint Pierre and Miquelon,1
+194,Mauritania,1
+195,Saint Pierre and Miquelon,1
+196,Greenland,1
+197,Saint Helena,1
+198,Dominica,1
 199,Antigua and Barbuda,1
