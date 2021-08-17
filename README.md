@@ -24,19 +24,28 @@ the SCOPUS API for affiliation and core data.
 5. The notebook "CORD-19-analyse-coredata-CS5099.ipynb" analyzes fetched core data.   
 6. The notebook "CORD-19-analyse-affiliation-data-CS5099.ipynb" analyzes fetched affiliation data.   
 
-For readers, it is recommended to view the notebooks in the described order.   
+For readers, it is recommended to view the notebooks in the described order.  
+Due to the existence of the PKL-files, all notebooks can be run independently.  
+
+Thusly, the computation time of each notebook is determined.  
+1. CORD-19-explore-dataset-CS5099.ipynb -> 1-5 minutes  
+2. CORD-19-software-counting-CS5099.ipynb -> 2-3 hours 
+3. CORD-19-software-classification-CS5099.ipynb ->  1-5 minutes  
+4. CORD-19-collect-scopus-data-CS5099.ipynb -> 4-5 days  
+5. CORD-19-analyse-coredata-CS5099.ipynb -> 2-3 hours  
+6. CORD-19-analyse-affiliation-data-CS5099.ipynb -> 10-20 minutes  
+
 Furthermore, the project holds additional files which are assigned a supportive role:   
 * "countries.geojson": This file is required to plot a world map   
 in the notebook "CORD-19-analyse-affiliation-data-CS5099.ipynb".
 * "counted_affiliation_countries.csv": This file is created as an output of  
-the notebook "CORD-19-analyse-affiliation-data-CS5099.ipynb" and 
+the notebook "CORD-19-analyse-affiliation-data-CS5099.ipynb" and   
 incorporates a count of countries which will be plotted to a choropleth world map.  
 * "extra_info_CS5099.pkl": This file stores fetched information from the SCOPUS API.   
 Moreover, the file is used by "CORD-19-analyse-coredata-CS5099.ipynb" and  
  "CORD-19-analyse-affiliation-data-CS5099.ipynb" to form insights. 
-* "software_mentions_CS5099.pkl": This file is outputted  
-by "CORD-19-software-counting-cs5099.ipynb" and  
-used by "CORD-19-software-classification-cs5099.ipynb" for classification of software mentions. 
+* "software_mentions_CS5099.pkl": This file is outputted by "CORD-19-software-counting-cs5099.ipynb" and  
+used by "CORD-19-software-classification-cs5099.ipynb" for classification of software mentions.   
 
 ## Requirements
 * All required dependencies are listed in the file "requirements.txt".  
