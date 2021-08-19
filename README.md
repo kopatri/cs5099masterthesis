@@ -27,7 +27,7 @@ the SCOPUS API for affiliation and core data.
 For readers, it is recommended to view the notebooks in the described order.  
 Due to the existence of the PKL-files, all notebooks can be run independently.  
 
-Thusly, the computation time of each notebook is determined.  
+Thus, the computation time of each notebook is determined.  
 1. CORD-19-explore-dataset-CS5099.ipynb -> 1-5 minutes  
 2. CORD-19-software-counting-CS5099.ipynb -> 2-3 hours 
 3. CORD-19-software-classification-CS5099.ipynb ->  1-5 minutes  
