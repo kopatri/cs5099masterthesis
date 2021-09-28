@@ -49,7 +49,7 @@ used by "CORD-19-software-classification-cs5099.ipynb" for classification of sof
 
 ## Requirements
 * All required dependencies are listed in the file "requirements.txt".  
-* To fetch the SCOPUS API, a personal API-Key is required that can be obtained  
+* To fetch the SCOPUS API, a personal API-Key is required which can be obtained  
 from https://dev.elsevier.com/apikey/manage and must be stored within "notebooks/config.json".  
 
 ## References
